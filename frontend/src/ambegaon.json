@@ -1,0 +1,117 @@
+[
+    {
+        "id":1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98jVe2gmU72WZJTngR2KcE1jCKAMVzDdc9w&s",
+      "address": "Jambulwadi Road, Datta Vihar, Dattanagar, Shani Nagar, Ambegaon BK, Pune",
+      "contact_details":"07947140482",
+        "first_name": "Ansh",
+        "last_name": "Dubey",
+        "email": "anshdubey@gmail.com",
+        "gender": "Male",
+        "specialization":"Oncology Nursing"
+        
+    },
+    {
+        
+        "id":2,
+        "image": "https://images.jdmagicbox.com/comp/pune/r5/020pxx20.xx20.120510143353.y3r5/catalogue/dwarka-hospital-kasarwadi-pune-private-hospitals-93f89-250.jpg",
+      "address": "Near Ambegaon BK, Pune South, Pune",
+      "contact_details":"07947139688",
+        "first_name": "Sam",
+        "last_name": "Sawant",
+        "email": "samsawant@@gmail.com",
+        "gender": "Female",
+        "specialization":"Dialysis Nursing"
+
+    },
+    {
+        
+        "id":3,
+        "image": "https://content.jdmagicbox.com/comp/pune/m4/020pxx20.xx20.211202121457.j4m4/catalogue/-u6cxz16cq3.jpg",
+      "address": "Sr No 37/4, House No 2514/1, Shivalay Hights, Ambegaon Gavthan, Ambegaon Budruk, Pune - 411046 (Near Ambegaon Gaymukh)",
+      "contact_details":"07947140455",
+        "first_name": "Suraj",
+        "last_name": "Khodape",
+        "email": "surajkhodpe@gmail.com",
+        "gender": "Male",
+        "specialization":"Nursing"
+
+    },
+    {
+        
+        "id":4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUWH7SbkS0mtkHthTpq_uh75m7fo-qrTajQw&s",
+      "address": "",
+      "contact_details":"07947147052",
+        "first_name": "Smit",
+        "last_name": "Pidurkar",
+        "email": "smitpid@gmail.com",
+        "gender": "Male",
+        "specialization":"Ophthalmic Nursing"
+
+    },
+    {
+        
+        "id":5,
+        "image": "https://content.jdmagicbox.com/comp/pune/m7/020pxx20.xx20.130201165051.p9m7/catalogue/patil-hospital-sinhagad-road-vadgaon-budruk-pune-hospitals-rcb3001j0o.jpg",
+      "address": "Survey No 28/8/1, Plot No 5, Swaroop Building, Navanand Co Operative Housing Society, Sinhagad Road, Hingne Khurd, Pune - 411051 (Near Santosh Hall, Opposite Neeley Complex)",
+      "contact_details":"07947140584",
+        "first_name": "Diya",
+        "last_name": "Batra",
+        "email": "@gmail.com",
+        "gender": "Female",
+        "specialization":"Pediatric Nursing"
+
+    },
+    {
+        
+        "id":6,
+        "image": "https://medintu.in/wp-content/uploads/2024/04/Screenshot-2024-04-05-153650.png",
+      "address": "Near Ambegaon BK, Pune South, Pune",
+      "contact_details":"07947140584",
+        "first_name": "Riya",
+        "last_name": "Das",
+        "email": "@gmail.com",
+        "gender": "Female",
+        "specialization":"Oncology Nursing"
+
+    },
+    
+        {
+
+        "id":6,
+        "image": "https://medintu.in/wp-content/uploads/2024/04/Screenshot-2024-04-05-153650.png",
+      "address": "Near Ambegaon BK, Pune South, Pune",
+      "contact_details":"07947140584",
+        "first_name": "Riya",
+        "last_name": "Das",
+        "email": "@gmail.com",
+        "gender": "Female",
+        "specialization":"Oncology Nursing"
+        },
+        {
+
+          "id":7,
+          "image": "https://images1-fabric.practo.com/practices/1324054/vishnukanti-multi-speciality-clinic-pune-604761ed3ce12.png/medium",
+        "address": "Survey No.39/24 Windsor County, F Wing, Shop No 6, Dattanagar Ambegaon Road, Ambegaon Budruk, Pune - 411046 (Behind Ambegaon D Mart)",
+        "contact_details":"09035265518",
+          "first_name": "Vivek",
+          "last_name": "Patel",
+          "email": "vivekpatel@gmail.com",
+          "gender": "Male",
+          "specialization":"Pediatric Nursing"
+          },
+          {
+
+            "id":8,
+            "image": "https://lh3.googleusercontent.com/p/AF1QipMWuZ3UVT6TMF6tpHG4yeZus2edBM0Cjs8z42lk=s1360-w1360-h1020",
+          "address": " s.no33, Phale Nagar, Datta Nagar Road Near Reliance Fresh Mall, Ambegaon Budruk, Pune46, Maharashtra 411046",
+          "contact_details":"07620442624",
+            "first_name": "Sarang",
+            "last_name": "Patel",
+            "email": "sarangpatel@gmail.com",
+            "gender": "Male",
+            "specialization":"Oncology Nursing"
+            }
+
+]

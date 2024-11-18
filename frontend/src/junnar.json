@@ -1,0 +1,51 @@
+[
+    {
+
+        "id":1,
+        "image": "https://content.jdmagicbox.com/comp/narayangaon/c3/9999p2132.2132.220511114330.j3c3/catalogue/jiwan-multi-speciality-hospital-khaire-hospital-junnar-road-narayangaon-hospitals-muvmfplj4h.jpg",
+      "address": "Junnar Road, Junnar, Pune - 410502 (Near Bus Stand and Saturday Bajar, Narayangaon)",
+      "contact_details":"08128186417",
+        "first_name": "Jack",
+        "last_name": "Daniel",
+        "email": "jackdaniel@gmail.com",
+        "gender": "Male",
+        "specialization":" oncology Nursing"
+        },
+        {
+
+            "id":2,
+            "image": "https://content3.jdmagicbox.com/comp/pune/z5/020pxx20.xx20.121001115026.s3z5/catalogue/dr-mokashi-hospital-junnar-pune-hospitals-M2SjeOdmut.jpg",
+          "address": "6V5H+5C7, Mangalwar, Sadabazar Peth Rd, Junnar, Maharashtra 410502",
+          "contact_details":"02132222076",
+            "first_name": "John",
+            "last_name": "Daniel",
+            "email": "johndaniel@gmail.com",
+            "gender": "Male",
+            "specialization":"critical care Nursing"
+            },
+            {
+
+                "id":3,
+                "image": "https://content.jdmagicbox.com/comp/pune/v7/020pxx20.xx20.190321164523.c9v7/catalogue/shivneri-multispeciality-hospital-junnar-pune-0m8qg8foae.jpg",
+              "address": "Narayangaon - Junnar Rd, Pardeshpura, Junnar, Maharashtra 410502",
+              "contact_details":"09763670070",
+                "first_name": "Raj",
+                "last_name": "Sharma",
+                "email": "rajshram@gmail.com",
+                "gender": "Male",
+                "specialization":" Orthopaedic Nursing"
+                },
+                {
+
+                    "id":4,
+                    "image": "https://lh3.googleusercontent.com/places/AAcXr8p1KFdGBZRMxdZTC3CAtLogT16lZgfPEVY6xdTSKTCZTsuosqiL4vJ9VWeGOlY51ouJGGC65eouT-FZyzm8P2W38-XY8uLFAxw=s1600-w3052",
+                  "address": "6V3H+Q36 Backside Apporva Showroom, Narayangaon - Junnar Rd, Junnar, Maharashtra 410502",
+                  "contact_details":"045232647892",
+                    "first_name": "Wani",
+                    "last_name": "Agrawal",
+                    "email": "waniagr@gmail.com",
+                    "gender": "Female",
+                    "specialization":"Dialysis Nursing"
+                    }
+
+]

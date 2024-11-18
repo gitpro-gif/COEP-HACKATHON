@@ -1,0 +1,50 @@
+[
+    {
+
+        "id":1,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPXXuRCP-yEt321--RMeYO-nOYoHU90lZZwBZsv=s1360-w1360-h1020",
+      "address": "7-9, 1st Ln, near Osho Ashram, Vasani Nagar, Koregaon Park, Pune, Maharashtra 411001",
+      "contact_details":"02066099999",
+        "first_name": "Tina",
+        "last_name": "Agrawal",
+        "email": "tinaa@gmail.com",
+        "gender": "Female",
+        "specialization":"Pediatric Nursing"
+        },
+        {
+
+            "id":2,
+            "image": "https://lh3.googleusercontent.com/p/AF1QipMA3czIEB7gNHSzE7TuATN3PMctcFcpXtNVBG8f=s1360-w1360-h1020",
+          "address": "Botalji Complex;1st Floor,Jalgaon Naka, Satara - Koregaon Rd, Koregaon, Maharashtra 415501",
+          "contact_details":"07798838882",
+            "first_name": "Neha",
+            "last_name": "Sharma",
+            "email": "nehasharma@gmail.com",
+            "gender": "Female",
+            "specialization":" OnocologyNursing"
+            },
+            {
+
+                "id":3,
+                "image": "https://lh3.googleusercontent.com/p/AF1QipOvWpNMxYBda_3BccBh3gnDIusnCVTdl6tLsN_A=s1360-w1360-h1020",
+              "address": "P535+C6V, Laxmi Nagar, Koregaon, Maharashtra 415501",
+              "contact_details":"01236547896",
+                "first_name": "Rutuja",
+                "last_name": "Kute",
+                "email": "rutujakute@gmail.com",
+                "gender": "Female",
+                "specialization":"Orthopaedic Nursing"
+                },
+                {
+
+                    "id":4,
+                    "image": "https://lh3.googleusercontent.com/p/AF1QipM9ZQQ4s7FxIFf93VPuWShg528y3WhvbSWkfk0Z=s1360-w1360-h1020",
+                  "address": "Koregaon-Rahimatpur Rd, Koregaon, Ma",
+                  "contact_details":"09850847208",
+                    "first_name": "Yug",
+                    "last_name": "Sharma",
+                    "email": "ygshrm@gmail.com",
+                    "gender": "Male",
+                    "specialization":"Pediatric Nursing"
+                    }
+]
